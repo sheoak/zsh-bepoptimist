@@ -1,6 +1,5 @@
-
 # remap homerow for vim mode
-bindkey -M vicmd "s" up-line-or-beginning-search
-bindkey -M vicmd "t" down-line-or-beginning-search
-bindkey -M vicmd "c" vi-backward-char
-bindkey -M vicmd "r" vi-forward-char
+bindkey -M vicmd "t" vi-backward-char
+bindkey -M vicmd "s" down-line-or-beginning-search
+bindkey -M vicmd "r" up-line-or-beginning-search
+bindkey -M vicmd "n" vi-forward-char
