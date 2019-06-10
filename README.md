@@ -7,8 +7,7 @@ vi-mode for french [bépo keyboard](http://bepo.fr/wiki/Accueil).
 
 Clone or download in your oh-my-zsh custom plugin directory:
 
-    $ cd ~/.oh-my-zsh/custom/plugins/
-    $ git clone git@github.com:sheoak/zsh-bepoptimist.git
+    $ git clone git@github.com:sheoak/zsh-bepoptimist.git ~/.oh-my-zsh/custom/plugins/bepoptimist
 
 Add in your plugins list in ~/.zshrc:
 
